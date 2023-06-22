@@ -104,7 +104,7 @@ resource "aws_security_group" "allow_tls" {
   }
 
   tags = {
-    Name = "web server security group"
+    Name = "web server security grp"
   }
 }
 
